@@ -1,0 +1,162 @@
+[
+  {
+    "metric": "f1_score",
+    "baseline": "mcb-ar",
+    "statistic": 13.0,
+    "p_value": 0.90625,
+    "ours_mean": 0.29029158254464466,
+    "baseline_mean": 0.29071758811672527
+  },
+  {
+    "metric": "f1_score",
+    "baseline": "mfs-mcdm",
+    "statistic": 16.5,
+    "p_value": 0.51171875,
+    "ours_mean": 0.29029158254464466,
+    "baseline_mean": 0.2681005292882522
+  },
+  {
+    "metric": "f1_score",
+    "baseline": "fimf",
+    "statistic": 5.0,
+    "p_value": 0.0390625,
+    "ours_mean": 0.29029158254464466,
+    "baseline_mean": 0.22370926063093874
+  },
+  {
+    "metric": "f1_score",
+    "baseline": "ml-csfs",
+    "statistic": 6.0,
+    "p_value": 0.05078125,
+    "ours_mean": 0.29029158254464466,
+    "baseline_mean": 0.2199832128567828
+  },
+  {
+    "metric": "ranking_loss",
+    "baseline": "mcb-ar",
+    "statistic": 13.0,
+    "p_value": 0.546875,
+    "ours_mean": 0.44340936928384406,
+    "baseline_mean": 0.4457383696809467
+  },
+  {
+    "metric": "ranking_loss",
+    "baseline": "mfs-mcdm",
+    "statistic": 16.0,
+    "p_value": 0.49609375,
+    "ours_mean": 0.44340936928384406,
+    "baseline_mean": 0.4531946220601683
+  },
+  {
+    "metric": "ranking_loss",
+    "baseline": "fimf",
+    "statistic": 19.0,
+    "p_value": 0.734375,
+    "ours_mean": 0.44340936928384406,
+    "baseline_mean": 0.43359824624618043
+  },
+  {
+    "metric": "ranking_loss",
+    "baseline": "ml-csfs",
+    "statistic": 5.0,
+    "p_value": 0.0390625,
+    "ours_mean": 0.44340936928384406,
+    "baseline_mean": 0.4233758456114899
+  },
+  {
+    "metric": "coverage",
+    "baseline": "mcb-ar",
+    "statistic": 14.0,
+    "p_value": 0.640625,
+    "ours_mean": 6.717871017871017,
+    "baseline_mean": 6.744599844599845
+  },
+  {
+    "metric": "coverage",
+    "baseline": "mfs-mcdm",
+    "statistic": 9.0,
+    "p_value": 0.25,
+    "ours_mean": 6.717871017871017,
+    "baseline_mean": 6.9162587412587415
+  },
+  {
+    "metric": "coverage",
+    "baseline": "fimf",
+    "statistic": 18.0,
+    "p_value": 0.65234375,
+    "ours_mean": 6.717871017871017,
+    "baseline_mean": 6.835392385392385
+  },
+  {
+    "metric": "coverage",
+    "baseline": "ml-csfs",
+    "statistic": 13.0,
+    "p_value": 0.30078125,
+    "ours_mean": 6.717871017871017,
+    "baseline_mean": 6.498776223776224
+  },
+  {
+    "metric": "hamming_loss",
+    "baseline": "mcb-ar",
+    "statistic": 8.0,
+    "p_value": 0.1875,
+    "ours_mean": 0.22203120953120953,
+    "baseline_mean": 0.21289335664335665
+  },
+  {
+    "metric": "hamming_loss",
+    "baseline": "mfs-mcdm",
+    "statistic": 13.0,
+    "p_value": 0.28515625,
+    "ours_mean": 0.22203120953120953,
+    "baseline_mean": 0.20728114478114476
+  },
+  {
+    "metric": "hamming_loss",
+    "baseline": "fimf",
+    "statistic": 14.0,
+    "p_value": 0.359375,
+    "ours_mean": 0.22203120953120953,
+    "baseline_mean": 0.20989542864542865
+  },
+  {
+    "metric": "hamming_loss",
+    "baseline": "ml-csfs",
+    "statistic": 19.0,
+    "p_value": 0.734375,
+    "ours_mean": 0.22203120953120953,
+    "baseline_mean": 0.22663817663817665
+  },
+  {
+    "metric": "reduction_time",
+    "baseline": "mcb-ar",
+    "statistic": 13.0,
+    "p_value": 0.30078125,
+    "ours_mean": 0.022233835610677488,
+    "baseline_mean": 0.027523754888130095
+  },
+  {
+    "metric": "reduction_time",
+    "baseline": "mfs-mcdm",
+    "statistic": 0.0,
+    "p_value": 0.00390625,
+    "ours_mean": 0.022233835610677488,
+    "baseline_mean": 0.002930569444288267
+  },
+  {
+    "metric": "reduction_time",
+    "baseline": "fimf",
+    "statistic": 0.0,
+    "p_value": 0.00390625,
+    "ours_mean": 0.022233835610677488,
+    "baseline_mean": 0.42960587261121774
+  },
+  {
+    "metric": "reduction_time",
+    "baseline": "ml-csfs",
+    "statistic": 1.0,
+    "p_value": 0.0078125,
+    "ours_mean": 0.022233835610677488,
+    "baseline_mean": 0.8342114652223245
+  }
+]

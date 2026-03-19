@@ -1,0 +1,24 @@
+{
+  "cases": [
+    {
+      "name": "single-sample-perfect-order",
+      "manual_value": 0.0,
+      "implementation_value": 0.0,
+      "absolute_difference": 0.0
+    },
+    {
+      "name": "single-sample-complete-error",
+      "manual_value": 1.0,
+      "implementation_value": 1.0,
+      "absolute_difference": 0.0
+    },
+    {
+      "name": "two-sample-mixed",
+      "manual_value": 0.5833333333333333,
+      "implementation_value": 0.5833333333333333,
+      "absolute_difference": 0.0
+    }
+  ],
+  "all_cases_match": true,
+  "definition": "relevant-vs-irrelevant pairs, normalized by |Y_t| * |Y_bar_t|"
+}

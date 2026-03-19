@@ -1,0 +1,42 @@
+[
+  {
+    "metric": "f1_score",
+    "baseline": "mcb-ar",
+    "statistic": 13.0,
+    "p_value": 0.90625,
+    "ours_mean": 0.29029158254464466,
+    "baseline_mean": 0.29071758811672527
+  },
+  {
+    "metric": "ranking_loss",
+    "baseline": "mcb-ar",
+    "statistic": 13.0,
+    "p_value": 0.546875,
+    "ours_mean": 0.44340936928384406,
+    "baseline_mean": 0.4457383696809467
+  },
+  {
+    "metric": "coverage",
+    "baseline": "mcb-ar",
+    "statistic": 14.0,
+    "p_value": 0.640625,
+    "ours_mean": 6.717871017871017,
+    "baseline_mean": 6.744599844599845
+  },
+  {
+    "metric": "hamming_loss",
+    "baseline": "mcb-ar",
+    "statistic": 8.0,
+    "p_value": 0.1875,
+    "ours_mean": 0.22203120953120953,
+    "baseline_mean": 0.21289335664335665
+  },
+  {
+    "metric": "reduction_time",
+    "baseline": "mcb-ar",
+    "statistic": 14.0,
+    "p_value": 0.359375,
+    "ours_mean": 0.03257792144480239,
+    "baseline_mean": 0.04034442827792696
+  }
+]

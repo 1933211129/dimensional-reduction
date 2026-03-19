@@ -1,0 +1,17 @@
+{
+  "output_dir": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1",
+  "comparison_summary_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/comparison_summary.csv",
+  "comparison_folds_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/comparison_folds.csv",
+  "comparison_results_json": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/comparison_results.json",
+  "structured_missingness_summary_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/structured_missingness_summary.csv",
+  "structured_missingness_aggregate_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/structured_missingness_aggregate.csv",
+  "structured_missingness_degradation_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/structured_missingness_degradation.csv",
+  "significance_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/significance.csv",
+  "ranking_loss_verification_json": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/ranking_loss_verification.json",
+  "runtime_local_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/runtime_local.csv",
+  "runtime_scaling_csv": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/runtime_scaling.csv",
+  "reviewer_markdown": "/Users/xiaokong/temp_work/axioms/code/native_recheck_v1/reviewer_experiment_summary.md",
+  "runtime_scaling_plot": null,
+  "structured_missingness_plot": null,
+  "total_runtime_seconds": 9.768745542001852
+}
